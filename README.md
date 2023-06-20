@@ -5,7 +5,7 @@
 
  <div>
   <a href="https://github.com/Mayke-Soares">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mayke-Soares&show_icons=false&theme=merko&include_all_commits=false&count_private=false"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mayke&show_icons=false&theme=merko&include_all_commits=false&count_private=false"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayke-Soares&layout=compact&langs_count=16&theme=merko"/>
 </div>
 <div style="display: inline_block"><br>
