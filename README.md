@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Mayke Soares
 
 - 🔭 Apaixonado por tecnologia
-- 🌱 Estudante Curso: Curso em Vídeo, Rashtag, Ciência da Computação, Análise e Desenvolvimento de Software, Senai Back-End.
+- 🌱 Estudante Curso: Curso em Vídeo, Rashtag, Ciência da Computação, Análise e Desenvolvimento de Software, Back-End.
 ##
  <div>
   <a href="https://github.com/Mayke-Soares">
