@@ -16,7 +16,7 @@
   <img width="48" height="48" src="https://img.icons8.com/fluency/48/css3.png" alt="css3"/>
   <img width="48" height="48" src="https://img.icons8.com/fluency/48/c-plus-plus-logo.png" alt="c-plus-plus-logo"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/python.png" alt="python"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/django.png" alt="django"/>
+  <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-color-tal-revivo.png" alt="external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-color-tal-revivo"/>
   
   
 </div>
