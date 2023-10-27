@@ -18,6 +18,7 @@
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="right" alt="Mayke-Soares" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gi">
  <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="64" height="64" viewBox="0 0 64 64">
+  <img width="64" height="64" src="https://img.icons8.com/glyph-neue/64/github.png" alt="github"/>
  <a  href="https://icons8.com/icon/3tC9EQumUAuq/github">GitHub</a> icon by <a href="https://icons8.com">Icons8</a>
 </div>
   
