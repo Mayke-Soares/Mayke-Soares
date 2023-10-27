@@ -18,11 +18,11 @@
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="right" alt="Mayke-Soares" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gi">
 
-  <img width="96" height="96" src="https://img.icons8.com/color/96/linux--v1.png" alt="linux--v1"/>
-  <img width="96" height="96" src="https://img.icons8.com/color/96/django.png" alt="django"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/linux--v1.png" alt="linux--v1"/>
+  <img width="48" height="96" src="https://img.icons8.com/color/48/django.png" alt="django"/>
   <img width="48" height="48" src="https://img.icons8.com/fluency/48/python.png" alt="python"/>
   <img width="48" height="48" src="https://img.icons8.com/fluency/48/javascript.png" alt="javascript"/>
-  <img width="64" height="64" src="https://img.icons8.com/glyph-neue/64/github.png" alt="github"/>
+  <img width="48" height="64" src="https://img.icons8.com/glyph-neue/48/github.png" alt="github"/>
  <a  href="https://icons8.com/icon/3tC9EQumUAuq/github">GitHub</a> icon by <a href="https://icons8.com">Icons8</a>
 </div>
   
