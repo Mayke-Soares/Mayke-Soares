@@ -1,4 +1,7 @@
-### Mayke Soares
+### <div>
+ <p>Mayke Soares</p>
+</div>
+
 ##
  <div>
   <a href="https://github.com/Mayke-Soares">
@@ -14,8 +17,7 @@
   <img width="48" height="48" src="https://img.icons8.com/fluency/48/c-plus-plus-logo.png" alt="c-plus-plus-logo"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/python.png" alt="python"/>
   <img width="45" height="40" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/45/external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-color-tal-revivo.png" alt="external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-color-tal-revivo"/>
-  
-  
+    
 </div>
   
   ##
@@ -26,9 +28,9 @@
   <a href = "mailto:contato@rafaballerini.tech"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/mayke-soares-80727922b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-  <div>
-  <p>Feito com :heart: e JavaScript.</p>
-  <p>Créditos: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a> e <a href="https://github.com/rafaballerini">Rafaella Ballerini</a></p>
+<div>
+
+  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+  
 </div>
 
