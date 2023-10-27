@@ -1,7 +1,4 @@
-### <div>
- <p>Mayke Soares</p>
-</div>
-
+Mayke Soares
 ##
  <div>
   <a href="https://github.com/Mayke-Soares">
