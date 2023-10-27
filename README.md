@@ -13,6 +13,7 @@
   <img width="48" height="48" src="https://img.icons8.com/color/48/python.png" alt="python"/>
   <img width="45" height="40" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/45/external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-color-tal-revivo.png" alt="external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-color-tal-revivo"/>
 </div>
+
    ##
 <div> 
   <a href="https://www.youtube.com/@maykesoares1/UC_-uuuZbY0AAt9CViNzvc-Q](https://www.youtube.com/@maykesoares1)" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
