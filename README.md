@@ -1,7 +1,4 @@
-### Olá! Eu sou o Mayke Soares
-
-- 🔭 Apaixonado por tecnologia
-- 🌱 Estudante Curso: Curso em Vídeo, Rashtag, Ciência da Computação, Análise e Desenvolvimento de Software, Back-End.
+### Mayke Soares
 ##
  <div>
   <a href="https://github.com/Mayke-Soares">
@@ -30,4 +27,8 @@
   <a href="https://www.linkedin.com/in/mayke-soares-80727922b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  <div>
+  <p>Feito com :heart: e JavaScript.</p>
+  <p>Créditos: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a> e <a href="https://github.com/rafaballerini">Rafaella Ballerini</a></p>
+</div>
 
