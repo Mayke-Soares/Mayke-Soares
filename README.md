@@ -13,6 +13,8 @@
   <img width="48" height="48" src="https://img.icons8.com/fluency/48/c-plus-plus-logo.png" alt="c-plus-plus-logo"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/python.png" alt="python"/>
   <img width="45" height="40" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/45/external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-color-tal-revivo.png" alt="external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-color-tal-revivo"/>
+ <img width="48" height="48" src="https://img.icons8.com/fluency/48/wordpress.png" alt="wordpress"/>
+ <img width="48" height="48" src="https://img.icons8.com/color-glass/48/bootstrap.png" alt="bootstrap"/>
 </div>
 
    ##
